@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkmpratik&" alt="pkmpratik" /></p>
 
+[![@pkmpratik's Holopin board](https://holopin.me/pkmpratik)](https://holopin.io/@pkmpratik)
+
