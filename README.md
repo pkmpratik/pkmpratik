@@ -22,8 +22,8 @@
 
 * **Languages:** Python, Java, SQL
 * **Automation & Testing:** PyTest, Manual Testing, API Automation
-* **Tools:** Git, GitHub, Docker (Basics), Android Studio
-* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, Docker (Basics)
+* **Databases:** MySQL
 * **Others:** REST API testing, Linux basics, Agile
 
 ---
@@ -50,3 +50,5 @@
 ---
 
 ⭐ *Quality-driven engineer focused on reliability, automation, and backend development.*
+
+[![@pkmpratik's Holopin board](https://holopin.me/pkmpratik)](https://holopin.io/@pkmpratik)
